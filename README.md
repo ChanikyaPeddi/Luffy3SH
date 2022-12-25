@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luffy3SH
-- 👀 I’m interested in learning devops
+- 👀 I’m interested in Selenium with Java
 - 📫 How to reach me ...
 
 <!---
